@@ -1,0 +1,951 @@
+{
+  "Janeiro de 2023": [
+    { "day": "01", "description": "Feriado Nacional – Confraternização Universal" },
+    {
+      "day": "03",
+      "description": "Data de fechamento para o cálculo do IRA-Geral relativo a 2022.2 em todos os cursos de graduação"
+    },
+    {
+      "day": "03",
+      "description": "Publicação, na internet, da oferta de turmas para matrícula no semestre 2023.1"
+    },
+    { "day": "03", "description": "68º aniversário de criação do Centro de Tecnologia" },
+    { "day": "04", "description": "Dia Mundial do Braille" },
+    {
+      "day": "09 a 31",
+      "description": "8ª Edição das Férias no Mauc - MAUC - Museu de Arte (Evento)"
+    },
+    { "day": "16 (EaD)", "description": "Graduação a distância: Término do período letivo 2022.2" },
+    {
+      "day": "24 (EaD)",
+      "description": "Graduação a distância: Consolidação das sínteses de notas e frequências 2022.2 - Prazo final"
+    },
+    { "day": "31", "description": "53º aniversário da Pró-Reitoria de Extensão (PREX)" }
+  ],
+  "Fevereiro de 2023": [
+    {
+      "day": "01",
+      "description": "Início do primeiro semestre letivo na UUNDC (Unidade Universitária Federal de Educação Infantil Núcleo de Desenvolvimento da Criança) - Centro de Ciências Agrárias"
+    },
+    {
+      "day": "01",
+      "description": "Término do prazo para encaminhamento à PROGRAD/COPAC de processo de reformulação/ajuste de Projeto Pedagógico de Curso (PPC), para implantação a partir do período letivo 2023.2"
+    },
+    {
+      "day": "01 (PG)",
+      "description": "Pós-Graduação lato sensu: período de matrícula 2023.1 de alunos novos/veteranos (via internet) - Início"
+    },
+    {
+      "day": "01 a 03",
+      "description": "Período de Matrícula Curricular e Institucional 2023.1 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    {
+      "day": "01 a 03 (EaD)",
+      "description": "Graduação a distância: Período de Matrícula Curricular e Institucional 2023.1 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    {
+      "day": "01 a 03 (EaD)",
+      "description": "Graduação a distância: Período de Matrícula Curricular e Institucional 2023.1 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    {
+      "day": "02",
+      "description": "Feriado Municipal em ITAPAJÉ - Comemoração alusiva ao Dia da Libertação dos Escravos"
+    },
+    {
+      "day": "06 a 08",
+      "description": "Ajuste de demanda e oferta 2023.1 (Coordenações de Curso, Chefias de Departamento, Diretorias de Unidades Acadêmicas e CPAc)"
+    },
+    {
+      "day": "10 a 13",
+      "description": "Ajuste de Matrícula 2023.1 para alunos veteranos (via Internet)"
+    },
+    {
+      "day": "10 a 13 (EaD)",
+      "description": "Graduação a distância: Ajuste de Matrícula 2023.1 para alunos veteranos (via Internet)"
+    },
+    {
+      "day": "11",
+      "description": "Feriado Municipal em QUIXADÁ – Dia da Padroeira do Município: Nossa Senhora Rainha do Sertão"
+    },
+    {
+      "day": "14 e 15",
+      "description": "Ajuste de demanda e oferta de turmas para Matrícula 2023.1 (Coordenações de Curso, Chefias de Departamento, Diretorias de Unidades Acadêmicas e CPAc)"
+    },
+    { "day": "16", "description": "Processamento do Ajuste de Matrícula 2023.1" },
+    {
+      "day": "17",
+      "description": "Último dia para requerimento de Distinção Acadêmica (Cum Laude, Magna Cum Laude e Summa Cum Laude) nas Coordenações de Curso de Graduação pelos alunos concludentes do semestre 2022.2"
+    },
+    { "day": "18", "description": "Ponto facultativo - Carnaval" },
+    { "day": "20 e 21", "description": "Ponto facultativo - Carnaval" },
+    { "day": "22", "description": "Ponto facultativo até as 14:00 - Quarta-feira de Cinzas" },
+    {
+      "day": "23, 24 e 27 (PG)",
+      "description": "Pós-graduação stricto sensu: período de matrícula 2023.1 de alunos novos/veteranos (via internet)"
+    },
+    {
+      "day": "23/02 a 01/03 (PG)",
+      "description": "Pós-graduação stricto sensu: homologação das matrículas 2023.1 pelos orientadores / coordenadores de cursos (via Internet)"
+    }
+  ],
+  "Março de 2023": [
+    {
+      "day": "01",
+      "description": "Término do prazo para encaminhamento à PROGRAD/COPAC de processos de atualizações específicas em estruturas curriculares de cursos de graduação para implantação a partir do período letivo 2023.2"
+    },
+    {
+      "day": "01 a 03",
+      "description": "Comemoração dos 120 anos da Faculdade de Direito - Faculdade de Direito"
+    },
+    { "day": "01 a 03", "description": "V Semana Pedagógica da UFC (VSEMPED) - Eideia" },
+    { "day": "02", "description": "50º aniversário do Centro de Ciências" },
+    { "day": "04", "description": "57º aniversário da Pró-Reitoria de Assuntos Estudantis (PRAE)" },
+    { "day": "06", "description": "Dia do Gestor Público - Centro de Ciências Agrárias" },
+    { "day": "06 a 10", "description": "Pré-Engenharia - PETs - Centro de Tecnologia" },
+    {
+      "day": "08 a 10",
+      "description": "Pré-Agrárias - Recepção dos Calouros dos Cursos de Graduação - Centro de Ciências Agrárias"
+    },
+    {
+      "day": "10",
+      "description": "Planejamento Estratégico do Labomar – Instituto Ciência do Mar (Labomar)"
+    },
+    { "day": "12", "description": "Dia do Bibliotecário - Centro de Humanidades" },
+    { "day": "13 (EaD)", "description": "Graduação a distância: Início do Período Letivo 2023.1" },
+    {
+      "day": "13",
+      "description": "Início do Período Letivo 2023.1 (cursos de graduação presenciais - sistema semestral e anual)"
+    },
+    {
+      "day": "13",
+      "description": "Casas de Cultura Estrangeira: Início do semestre letivo 2023.1"
+    },
+    {
+      "day": "13",
+      "description": "54º aniversário da Pró-Reitoria de Pesquisa e Pós-Graduação (PRPPG)"
+    },
+    {
+      "day": "13",
+      "description": "Projeto Nova Língua - PROLÍNGUA - Centro de Humanidades - Início"
+    },
+    {
+      "day": "13 (PG)",
+      "description": "Pós-graduação stricto e lato sensu: início do período letivo 2023.1"
+    },
+    { "day": "13 a 17", "description": "Semana Zero da Farmácia - FFOE" },
+    { "day": "13 a 17", "description": "Semana Zero da Gastronomia - ICA" },
+    { "day": "13 a 17", "description": "Semana Zero do Design-Moda - ICA" },
+    {
+      "day": "13 a 17",
+      "description": "INCLUDE - Departamento de Computação - Centro de Ciências"
+    },
+    {
+      "day": "13 e 14",
+      "description": "Recepção dos novos estudantes ingressantes em 2023.1 pelas Coordenações de Curso e Diretorias de Unidades Acadêmicas"
+    },
+    {
+      "day": "13 e 14",
+      "description": "Semana de Ambientação e Integração - Campus da UFC em Crateús"
+    },
+    {
+      "day": "15 e 16",
+      "description": "1º Período de Ajuste de Matrícula em Tempo Real 2023.1 para alunos veteranos (via Internet)"
+    },
+    {
+      "day": "16 e 17",
+      "description": "Encontro Pedagógico de Integração Docente 2023.1 - Campus da UFC em Crateús"
+    },
+    { "day": "19", "description": "Feriado Estadual – Dia de São José" },
+    {
+      "day": "21",
+      "description": "Primeira colação de grau regular (virtual) do mês de março (para concludentes cuja documentação básica de colação de grau, sem pendências, foi enviada à Prograd, pela Coordenação do Curso, até às 17h de 10/03/2023"
+    },
+    {
+      "day": "22",
+      "description": "2º Período de Ajuste de Matrícula em Tempo Real 2023.1 para alunos veteranos (via Internet) (cursos de graduação presenciais - sistema semestral e anual)"
+    },
+    {
+      "day": "23",
+      "description": "Segunda colação de grau regular (virtual) do mês de março (para concludentes cuja documentação básica de colação de grau, sem pendências, foi enviada à Prograd, pela Coordenação do Curso, até às 17h de 10/03/2023"
+    },
+    {
+      "day": "24",
+      "description": "Último dia para remessa à PROGRAD do processo eletrônico contendo relação dos alunos concludentes, dos semestres 2022.1 e 2022.2 indicados pelas Coordenações de Curso de Graduação para concessão de distinção acadêmica (Cum Laude, Magna Cum Laude e Summa Cum Laude)"
+    },
+    { "day": "25", "description": "Feriado Estadual – Data Magna do Ceará" },
+    {
+      "day": "27 a 30 (PG)",
+      "description": "Pós-graduação stricto sensu: homologação do ajuste de matrícula pelos orientadores / coordenadores de cursos (via internet)"
+    },
+    {
+      "day": "27 a 31",
+      "description": "ECOFIN – Semana de Economia e Finanças - Centros Acadêmicos de Economia e Finanças"
+    },
+    {
+      "day": "27 e 28 (PG)",
+      "description": "Pós-graduação stricto sensu: período de ajuste de matrícula 2023.1 (via internet)"
+    },
+    {
+      "day": "30",
+      "description": "105º aniversário da Escola de Agronomia do Ceará - Centro de Ciências Agrárias"
+    },
+    { "day": "31", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    { "day": "31", "description": "Seminário Pedagógico - Labomar" },
+    {
+      "day": "31",
+      "description": "Ponto facultativo a partir das 14h - Procissão dos Passos em Sobral - Campus da UFC de Sobral"
+    }
+  ],
+  "Abril de 2023": [
+    { "day": "02", "description": "Dia Mundial da Conscientização sobre o Autismo" },
+    {
+      "day": "03",
+      "description": "Processamento do cancelamento de programas de alunos sem matrícula em disciplina, sem trancamento total e sem matrícula institucional em 2023.1"
+    },
+    { "day": "03", "description": "Dia do Atuário - FEAAC" },
+    {
+      "day": "03 a 05",
+      "description": "Semana da Atuária e comemoração dos 30 anos do Curso de Ciências Atuariais - FEAAC"
+    },
+    {
+      "day": "04",
+      "description": "Publicação do cancelamento de programas de alunos sem matrícula em disciplina, sem trancamento total e sem matrícula institucional em 2023.1"
+    },
+    {
+      "day": "05",
+      "description": "Comemoração dos 60 anos de criação do Curso de Geografia - Centro de Ciências"
+    },
+    { "day": "06", "description": "Recesso escolar e Ponto facultativo – Semana Santa" },
+    { "day": "07", "description": "Feriado Nacional – Paixão de Cristo" },
+    { "day": "08", "description": "Dia Internacional da Biomecânica" },
+    {
+      "day": "10 a 14",
+      "description": "Período para solicitação de reabertura de matrícula para 2023.2 dos cursos de graduação presencial"
+    },
+    {
+      "day": "10 a 14 (EaD)",
+      "description": "Graduação a distância: Período para solicitação de reabertura de matrícula para 2023.2 dos cursos de graduação EaD"
+    },
+    { "day": "12 a 14", "description": "Ipharma Jr. - FFOE" },
+    { "day": "12 a 19", "description": "Semana da Língua Alemã - Casa de Cultura Alemã/CGCCE" },
+    {
+      "day": "13",
+      "description": "60º aniversário do Departamento de Bioquímica e Biologia Molecular - Centro de Ciências"
+    },
+    {
+      "day": "17 a 20",
+      "description": "SESCOMP - Semana de Engenharia de Software e Ciência da Computação – Campus da UFC em Russas"
+    },
+    { "day": "17 e 20", "description": "ABRIL LITERÁRIO - Centro de Humanidades" },
+    {
+      "day": "20",
+      "description": "Período para requerimento de aproveitamento de estudos (nas Coordenações de Curso) – Término"
+    },
+    { "day": "21", "description": "Feriado Nacional – Dia de Tiradentes" },
+    { "day": "23", "description": "Dia Nacional da Educação do Surdo" },
+    {
+      "day": "24",
+      "description": "Divulgação da lista dos agraciados com as Distinções Acadêmicas dos semestres 2022.1 e 2022.2 (Cum Laude, Magna Cum Laude e Summa Cum Laude) no site da Prograd"
+    },
+    {
+      "day": "24 a 27 (PG)",
+      "description": "Pós-graduação stricto sensu: homologação do trancamento parcial de matrícula em disciplinas pelos orientadores / coordenadores de cursos (via internet)"
+    },
+    {
+      "day": "24 e 25 (PG)",
+      "description": "Pós-graduação stricto sensu: trancamento parcial de matrícula 2023.1 em disciplinas (via Internet)"
+    },
+    { "day": "25", "description": "Dia do Contabilista - FEAAC" },
+    {
+      "day": "25",
+      "description": "Primeira colação de grau regular (virtual) do mês de abril (para concludentes cuja documentação básica de colação de grau, sem pendências, foi enviada à Prograd, pela Coordenação do Curso, até às 17h de 14/04//2023;"
+    },
+    {
+      "day": "26 a 28",
+      "description": "VI Semana do Meio Ambiente - SMA / X Fórum de Inovação e Tecnologia - FIT e IV Semana das Engenharias - SENGS - Campus da UFC em Crateús"
+    },
+    {
+      "day": "27",
+      "description": "Segunda colação de grau regular (virtual) do mês de abril (para concludentes cuja documentação básica de colação de grau, sem pendências, foi enviada à Prograd, pela Coordenação do Curso, até às 17h de 14/04//2023;"
+    },
+    { "day": "28", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    { "day": "29", "description": "14º aniversário de criação do Curso de Fisioterapia - FAMED" }
+  ],
+  "Maio de 2023": [
+    { "day": "01", "description": "Feriado Nacional – Dia Mundial do Trabalho" },
+    {
+      "day": "02 a 04",
+      "description": "III Semana de Escrita Acadêmica da BCCP - Biblioteca Universitária"
+    },
+    {
+      "day": "06 a 20",
+      "description": "XIIDIMA Diálogos da Matemática com a Pedagogia - Grupo de Estudos Tecendo Redes Cognitivas de Aprendizagem (GTERCOA/CNPq) - FACED"
+    },
+    {
+      "day": "08 a 11",
+      "description": "Trancamento parcial de matrícula 2023.1 de disciplinas semestrais"
+    },
+    { "day": "08 a 19", "description": "Exposição \"Ler é preciso\" - Biblioteca Universitária" },
+    { "day": "09 a 11", "description": "Congresso da Compolítica - ICA" },
+    { "day": "10 a 12", "description": "XII Jornada da Farmácia (XII JOFAR) - FFOE" },
+    {
+      "day": "10",
+      "description": "Aniversário de fundação do Diretório Central dos Estudantes (DCE) da UFC"
+    },
+    {
+      "day": "11",
+      "description": "Celebração dos 30 anos do Programa de Pós-Graduação em Enfermagem - FFOE"
+    },
+    { "day": "11 a 13", "description": "XII Mostra Acadêmica de Enfermagem da UFC - FFOE" },
+    { "day": "12", "description": "75º aniversário de fundação da Faculdade de Medicina - FAMED" },
+    { "day": "13", "description": "Dia do Zootecnista - Centro de Ciências Agrárias" },
+    { "day": "15 a 21", "description": "Semana Nacional de Museus - MAUC" },
+    {
+      "day": "17 a 19",
+      "description": "Workshop de Tecnologia da Informação do Sertão Central (WTISC) - Campus Quixadá"
+    },
+    {
+      "day": "18 a 20",
+      "description": "XVII Jornada Odontopet e VIII Encontro do Programa de Pós-Graduação em Odontologia - FFOE"
+    },
+    { "day": "18", "description": "Dia Internacional dos Museus - MAUC" },
+    {
+      "day": "18",
+      "description": "Data de fechamento para o recálculo do IRA-Individual e do IRA-Geral em todos os cursos de graduação"
+    },
+    { "day": "19", "description": "Dia do Físico - Centro de Ciências" },
+    { "day": "20", "description": "Dia do Pedagogo" },
+    { "day": "21", "description": "Dia do Profissional de Letras - Centro de Humanidades" },
+    {
+      "day": "22 a 24",
+      "description": "Semana de Normalização do Sistema de Bibliotecas - Biblioteca Universitária"
+    },
+    {
+      "day": "22",
+      "description": "Feriado Municipal em ITAPAJÉ - Dia de Santa Rita de Cássia, Padroeira da Paróquia de Santa Rita, em Itapajé"
+    },
+    {
+      "day": "23 a 25",
+      "description": "Exposição de Educação Não Formal: Tecnologias Sociais Educativas Por Uma (Trans) Formação (Pós) Humana e (Pós) Crítica - FACED"
+    },
+    { "day": "26", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    {
+      "day": "26/05 a 05/06",
+      "description": "Período de demanda de turmas regulares semestrais e anuais para Matrícula 2023.2 pelas Coordenações de Cursos de graduação"
+    },
+    { "day": "27", "description": "Dia Mundial do Brincar - FACED" },
+    {
+      "day": "29",
+      "description": "Lançamento do Edital de Seleção para o Curso de Licenciatura em Letras-Libras 2023.2"
+    },
+    { "day": "29", "description": "Dia do Geógrafo - Centro de Ciências" },
+    { "day": "29", "description": "Dia do Estatístico" },
+    { "day": "29 a 31", "description": "Semana da Estatística - Centro de Ciências" },
+    {
+      "day": "29/05 a 02/06",
+      "description": "Semana Livros Livres: 7 anos - Biblioteca Universitária"
+    },
+    { "day": "30", "description": "Dia do Geólogo" },
+    { "day": "30/05 a 03/06", "description": "XXVIII Semana da Geologia - Centro de Ciências" },
+    {
+      "day": "31/05 a 03/06",
+      "description": "X Encontro Inter-Regional Norte, Nordeste e Centro-Oeste sobre Formação Docente para a Educação Básica e Superior (XNFORSUP) e V Encontro Internacional sobre a Formação Docente para a Educação Básica e Superior (V INTERFOR) - FACED"
+    }
+  ],
+  "Junho de 2023": [
+    {
+      "day": "03",
+      "description": "Dia Nacional da Educação Ambiental - Centro de Ciências Agrárias"
+    },
+    {
+      "day": "06 a 09",
+      "description": "IX Semana de Inclusão e Acessibilidade - SIA - UFC INCLUI - Acessibilidade"
+    },
+    { "day": "08", "description": "Ponto facultativo – Corpus Christi" },
+    { "day": "08", "description": "Dia do Oceanógrafo" },
+    {
+      "day": "09 a 21",
+      "description": "Período de resposta, por parte das Chefias de Departamento e Diretorias de Unidades Acadêmicas, às demandas de turma para matrícula 2023.2 feitas pelas Coordenações dos Cursos de graduação"
+    },
+    { "day": "12", "description": "Avaliação institucional 2023 - Início" },
+    { "day": "12 a 16", "description": "Semana de Carreiras Jurídicas" },
+    { "day": "12 a 17", "description": "Semana Nacional dos Arquivos - MAUC" },
+    { "day": "15", "description": "Empreenday - Campus Quixadá" },
+    { "day": "15 a 18", "description": "Semana do Mar - Labomar" },
+    { "day": "15 a 18", "description": "Seminário de Ciências Marinhas Tropicais - Labomar" },
+    { "day": "18", "description": "Dia do Químico" },
+    { "day": "18", "description": "Dia do Orgulho Autista" },
+    { "day": "19", "description": "54º aniversário da Pró-Reitoria de Graduação - PROGRAD" },
+    {
+      "day": "23",
+      "description": "IX Dia do Produtor Rural - Empresa Júnior de Assessoria e Consultoria Zootécnica e Núcleo de Ensino e Estudos em Forragicultura do Departamento de Zootecnia - Centro de Ciências Agrárias"
+    },
+    { "day": "25", "description": "68º aniversário de instalação da UFC" },
+    {
+      "day": "25",
+      "description": "15º aniversário de criação do Instituto de Cultura e Arte – Unidade Acadêmica (ICA)"
+    },
+    {
+      "day": "25",
+      "description": "15º aniversário de criação do Instituto de Ciências do Mar – Unidade Acadêmica"
+    },
+    {
+      "day": "25",
+      "description": "62º aniversário de Inauguração do Museu de Arte - MAUC\n26\tAvaliação institucional 2023 - Término"
+    },
+    { "day": "26", "description": "Dia do Professor de Geografia - Centro de Ciências" },
+    {
+      "day": "26",
+      "description": "Período de ajuste de demanda e oferta de turmas para matrícula 2023.2 para Coordenações de Curso, Chefias de Departamento e Diretorias de Unidades Acadêmicas - Início"
+    },
+    { "day": "27", "description": "Dia Internacional do Surdocego" },
+    {
+      "day": "30",
+      "description": "Término do primeiro semestre letivo na UUNDC - Centro de Ciências Agrárias"
+    },
+    { "day": "30", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    { "day": "30", "description": "Dia do Biotecnologista - Centro de Ciências" }
+  ],
+  "Julho de 2023": [
+    {
+      "day": "01",
+      "description": "Término do prazo para encaminhamento à PROGRAD/COPAC de processo de reformulação/ajuste de Projeto Pedagógico de Curso (PPC), para implantação a partir do período letivo 2024.1"
+    },
+    {
+      "day": "03 a 31",
+      "description": "9° Edição do Férias no Mauc - MAUC - Museu de Arte (Evento)"
+    },
+    { "day": "05", "description": "Feriado Municipal em SOBRAL - Aniversário de Sobral" },
+    {
+      "day": "06",
+      "description": "Feriado Municipal em CRATEÚS – Aniversário de Emancipação Política do Município"
+    },
+    {
+      "day": "06",
+      "description": "Casas de Cultura Estrangeira: Término do semestre letivo 2023.1"
+    },
+    {
+      "day": "11 e 12",
+      "description": "Trancamento parcial de matrícula 2023.1 em disciplinas anuais"
+    },
+    {
+      "day": "12",
+      "description": "Período de ajuste de demanda e oferta de turmas para matrícula 2023.2 para Coordenações de Curso, Chefias de Departamento e Diretorias de Unidades Acadêmicas - Término"
+    },
+    {
+      "day": "12 (PG)",
+      "description": "Pós-graduação lato sensu: período de matrícula 2023.1 de alunos novos/veteranos (via internet na coordenação de curso) - Término"
+    },
+    {
+      "day": "13",
+      "description": "Término do Semestre Letivo 2023.1 - 100 dias letivos (Cursos de graduação presenciais)"
+    },
+    {
+      "day": "13",
+      "description": "Último dia para pedidos de Trancamento Total referente ao semestre 2023.1"
+    },
+    {
+      "day": "13 (EaD)",
+      "description": "Último dia para pedido de Trancamento Total referente ao semestre 2023.1"
+    },
+    {
+      "day": "13 (EaD)",
+      "description": "Graduação a distância: Término do Semestre Letivo 2023.1 – 100 dias letivos (Cursos de graduação EaD)"
+    },
+    {
+      "day": "13 (PG)",
+      "description": "Pós-graduação stricto e lato sensu: término do período letivo 2023.1"
+    },
+    {
+      "day": "14 a 18 (PG)",
+      "description": "Pós-graduação stricto sensu: oferta de disciplinas para o semestre 2023.2"
+    },
+    {
+      "day": "14",
+      "description": "Período para requerimento de aproveitamento de estudos (nas Coordenações de Curso) - Início"
+    },
+    {
+      "day": "14 a 21",
+      "description": "Período de Avaliações Finais do Semestre 2023.1 – Todos os campi"
+    },
+    {
+      "day": "19 a 20 (PG)",
+      "description": "Pós-graduação stricto sensu: período de matrícula 2023.2 de alunos veteranos / novatos (via Internet)"
+    },
+    {
+      "day": "19 a 24 (PG)",
+      "description": "Pós-graduação stricto sensu: homologação das matrículas 2023.2 pelos orientadores / coordenadores de cursos (via Internet)"
+    },
+    { "day": "20", "description": "Feriado Municipal em ITAPAJÉ: Dia do Município" },
+    {
+      "day": "22",
+      "description": "Consolidação das sínteses de notas e frequências 2023.1 das disciplinas semestrais e anuais pelos professores - Prazo Final"
+    },
+    {
+      "day": "22 (EaD)",
+      "description": "Graduação a distância: Consolidação das sínteses de notas e frequências 2023.1 das disciplinas semestrais e anuais pelos professores - Prazo Final"
+    },
+    {
+      "day": "24",
+      "description": "Data de fechamento para o cálculo do IRA-Geral e IRA-Individual relativo a 2023.1 em todos os cursos de graduação"
+    },
+    {
+      "day": "24",
+      "description": "Publicação na Internet da oferta de turmas para matrícula no semestre 2023.2"
+    },
+    {
+      "day": "25 a 27",
+      "description": "Período de Matrícula Curricular e Institucional 2023.2 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    {
+      "day": "25 a 27 (EaD)",
+      "description": "Graduação a distância: Período de Matrícula Curricular e Institucional 2023.2 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    {
+      "day": "25",
+      "description": "Criação do Curso de Engenharia de Pesca - Centro de Ciências Agrárias"
+    },
+    {
+      "day": "28 a 31",
+      "description": "Ajuste de Demanda e Oferta 2023.2 (Coordenações de Curso, Chefias de Departamento, Diretorias de Unidades Acadêmicas e CPAc)"
+    },
+    {
+      "day": "31/07 a 01/08",
+      "description": "Encontro Pedagógico de Integração Docente 2023.2 - Campus da UFC em Crateús"
+    },
+    {
+      "day": "31/07 a 02/08",
+      "description": "Confirmação de Matrícula no SIGAA para ingressantes em 2023.2 (via Sisu)"
+    },
+    { "day": "31/07 a 04/08", "description": "III Semana Acadêmica de Gastronomia - ICA" },
+    { "day": "31", "description": "Dia do Anatomista" }
+  ],
+  "Agosto de 2023": [
+    {
+      "day": "01",
+      "description": "Término do prazo para encaminhamento à PROGRAD/COPAC de processos de atualizações específicas em estruturas curriculares de cursos de graduação para implantação a partir do período letivo 2024.1"
+    },
+    {
+      "day": "01",
+      "description": "Início do segundo semestre letivo na UUNDC - Centro de Ciências Agrárias"
+    },
+    { "day": "01", "description": "Processamento da Matrícula Curricular e Institucional 2023.2" },
+    {
+      "day": "01 (PG)",
+      "description": "Pós-graduação lato sensu: período de matrícula 2023.2 de alunos novos/veteranos (via coordenação de curso) - Início"
+    },
+    { "day": "02 a 04", "description": "XII SAM - Semana Acadêmica de Moda" },
+    {
+      "day": "02 e 03",
+      "description": "Ajuste de Matrícula 2023.2 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    {
+      "day": "02 e 03 (EaD)",
+      "description": "Graduação a distância: Ajuste de Matrícula 2023.2 para alunos veteranos (via Internet e nas Coordenações de Curso)"
+    },
+    { "day": "04", "description": "9º aniversário do Campus da UFC em Crateús" },
+    {
+      "day": "04 a 07",
+      "description": "Ajuste de Demanda e Oferta 2023.2 (Coordenações de Curso, Chefias de Departamento, Diretorias de Unidades Acadêmicas e CPAc)"
+    },
+    { "day": "05", "description": "Dia Nacional da Saúde - Centro de Ciências Agrárias" },
+    { "day": "06", "description": "Feriado Municipal em RUSSAS – Emancipação Política" },
+    {
+      "day": "06",
+      "description": "Dia dos Profissionais da Educação - Centro de Ciências Agrárias"
+    },
+    { "day": "07 a 09", "description": "VI Semana Pedagógica da UFC (VISEMPED) - Eideia" },
+    {
+      "day": "07 a 11",
+      "description": "Semana Acadêmica da Computação (SAC) – Centro de Ciências"
+    },
+    { "day": "08", "description": "Processamento do Ajuste de Matrícula 2023.2" },
+    {
+      "day": "09",
+      "description": "Início do Período Letivo 2023.2 (cursos de graduação presenciais - sistema semestral e anual)"
+    },
+    {
+      "day": "09",
+      "description": "Recepção dos novos estudantes ingressantes em 2023.2 pelas Coordenações de Curso e Diretorias de Unidades Acadêmicas"
+    },
+    {
+      "day": "09 (EaD)",
+      "description": "Graduação a distância: Início do Período Letivo 2023.2 (cursos de graduação EaD)"
+    },
+    {
+      "day": "09 (PG)",
+      "description": "Pós-graduação stricto e lato sensu: início do período letivo 2023.2"
+    },
+    {
+      "day": "09 e 10",
+      "description": "Encontro Pedagógico de Integração Docente 2023.2 - Campus da UFC em Crateús"
+    },
+    { "day": "09 e15", "description": "III Semana Acadêmica de Gastronomia - ICA" },
+    {
+      "day": "10 a 31",
+      "description": "Inscrições para sorteio de vagas para o ano letivo 2024 da UUNDC - Centro de Ciências Agrárias"
+    },
+    { "day": "11", "description": "Dia do Estudante" },
+    {
+      "day": "12 a 14",
+      "description": "1º Período de Ajuste de Matrícula em Tempo Real 2023.2 para alunos veteranos (via Internet)"
+    },
+    { "day": "13", "description": "Dia do Economista - FEAAC" },
+    {
+      "day": "14",
+      "description": "Casas de Cultura Estrangeira: Início do semestre letivo 2023.2"
+    },
+    {
+      "day": "14",
+      "description": "Último dia para requerimento de Distinção Acadêmica (Cum Laude, Magna Cum Laude e Summa Cum Laude) nas Coordenações de Curso de Graduação pelos alunos concludentes do semestre 2023.1"
+    },
+    {
+      "day": "14",
+      "description": "8º aniversário de criação do Departamento de Fisioterapia - FAMED"
+    },
+    {
+      "day": "15",
+      "description": "Feriado Municipal em FORTALEZA – Dia de Nossa Senhora da Assunção"
+    },
+    { "day": "17", "description": "Dia do patrimônio cultural - MAUC" },
+    { "day": "21 a 25", "description": "Semana da Fruticultura - Centro de Ciências Agrárias" },
+    {
+      "day": "21 a 28",
+      "description": "Semana Nacional da Pessoa com Deficiência Intelectual e Múltipla"
+    },
+    { "day": "22", "description": "Dia da Pessoa com Deficiência Intelectual" },
+    {
+      "day": "22",
+      "description": "2º Período de Ajuste de Matrícula em Tempo Real 2023.2 para alunos veteranos (via Internet)"
+    },
+    {
+      "day": "23 a 25",
+      "description": "XII Jornada Odontológica de Sobral (XIII JOSb), XV Jornada Sobralense de Estomatologia, Radiologia Odontológica e Patologia Oral (XV JOERP) - Campus da UFC em Sobral"
+    },
+    { "day": "24", "description": "Dia do artista - MAUC" },
+    { "day": "25", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    { "day": "27", "description": "Dia Nacional do Psicólogo - Centro de Humanidades" },
+    { "day": "27", "description": "2º aniversário do Campus de Itapajé" },
+    {
+      "day": "28 a 31 (PG)",
+      "description": "Pós-graduação stricto sensu: homologação do ajuste de matrícula pelos orientadores / coordenadores de cursos (via Internet)"
+    },
+    {
+      "day": "28 e 29 (PG)",
+      "description": "Pós-graduação stricto sensu: período de ajuste de matrícula 2023.2 (via Internet)"
+    },
+    { "day": "28/08 a 01/09", "description": "XXXI Semana da Biologia Centro de Ciências" },
+    {
+      "day": "30/08 a 02/09",
+      "description": "XXX Jornada Anual de Cirurgia - Departamento de Cirurgia/FAMED"
+    },
+    {
+      "day": "30",
+      "description": "13º aniversário de Criação da Secretaria de Acessibilidade UFC Inclui"
+    }
+  ],
+  "Setembro de 2023": [
+    { "day": "02", "description": "O CT Quer Você! - Centro de Tecnologia" },
+    { "day": "03", "description": "Dia do Biólogo" },
+    {
+      "day": "03 a 07",
+      "description": "SIGAR - Simpósio de Geografia, Artes e Religiosidades - Centro de Ciências"
+    },
+    {
+      "day": "04 a 15",
+      "description": "Campanha de uso e conservação do acervo - Biblioteca Universitária"
+    },
+    { "day": "07", "description": "Feriado Nacional – Independência do Brasil" },
+    { "day": "09", "description": "Dia do Administrador - FEAAC" },
+    { "day": "10", "description": "Dia Universal da LIBRAS" },
+    {
+      "day": "12 (EaD)",
+      "description": "Graduação a distância: Período para requerimento de aproveitamento de estudos (nas Coordenações de Curso) - Término"
+    },
+    {
+      "day": "12",
+      "description": "Período para requerimento de aproveitamento de estudos (nas Coordenações de Curso) – Término"
+    },
+    {
+      "day": "14",
+      "description": "Processamento do cancelamento de programas de alunos sem matrícula em disciplina, sem trancamento total e sem matrícula institucional em 2023.2"
+    },
+    {
+      "day": "15",
+      "description": "Publicação do cancelamento de programas de alunos sem matrícula em disciplina, sem trancamento total e sem matrícula institucional em 2023.2"
+    },
+    {
+      "day": "18 a 22",
+      "description": "XIV Semana da Química e VII Workshop da Química - Centro de Ciências"
+    },
+    {
+      "day": "18 a 22",
+      "description": "Período para solicitação de reabertura de matrícula para 2024.1 dos cursos de graduação presencial"
+    },
+    {
+      "day": "18 a 22 (EaD)",
+      "description": "Graduação a distância: Período para solicitação de reabertura de matrícula para 2024.1 dos cursos de graduação EaD"
+    },
+    { "day": "18 a 24", "description": "Primavera de Museus - MAUC" },
+    { "day": "21", "description": "Dia Nacional da Luta das Pessoas com Deficiência" },
+    { "day": "22", "description": "Dia do Contador - FEAAC" },
+    {
+      "day": "25 a 28 (PG)",
+      "description": "Pós-graduação stricto sensu: homologação do trancamento em disciplinas pelos orientadores / coordenadores de cursos (via Internet)"
+    },
+    { "day": "25 a 29", "description": "Semana da Física 2023 - Centro de Ciências" },
+    {
+      "day": "25 a 29",
+      "description": "VIII Semana de Metodologia & Produção Científica - Biblioteca Universitária"
+    },
+    { "day": "25 a 29", "description": "I Setembro Surdo na UFC - PREX" },
+    {
+      "day": "25 e 26 (PG)",
+      "description": "Pós-graduação stricto sensu: trancamento parcial de matrícula 2023.2 em disciplinas (via Internet)"
+    },
+    { "day": "26", "description": "Dia Nacional do Surdo" },
+    {
+      "day": "28",
+      "description": "Dia Nacional dos Mediadores e Conciliadores - Centro de Ciências Agrárias"
+    },
+    { "day": "29", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    { "day": "30", "description": "Dia do Secretário Executivo - FEAAC" },
+    { "day": "30", "description": "Dia Internacional do Tradutor" }
+  ],
+  "Outubro de 2023": [
+    {
+      "day": "02 a 05",
+      "description": "Trancamento parcial de matrícula 2023.2 de disciplinas semestrais"
+    },
+    {
+      "day": "02 a 05 (EaD)",
+      "description": "Graduação a distância: Trancamento parcial de matrícula 2023.2 de disciplinas semestrais"
+    },
+    { "day": "02 a 06", "description": "Semana da Matemática Industrial - Centro de Ciências" },
+    {
+      "day": "03 a 06",
+      "description": "SER - Semana de Engenharia de Russas - Campus da UFC em Russas"
+    },
+    {
+      "day": "04",
+      "description": "Feriado Municipal em ITAPAJÉ: Dia do Padroeiro da Cidade \"São Francisco de Assis\""
+    },
+    { "day": "05", "description": "Dia do Empreendedor - Centro de Ciências Agrárias" },
+    {
+      "day": "07",
+      "description": "Feriado Municipal em RUSSAS – Dia da Padroeira (N. Sra. do Rosário)"
+    },
+    {
+      "day": "09",
+      "description": "Lançamento do Edital de Seleção para Transferência de Outras Instituições de Ensino Superior e Admissão de graduados para ingresso em 2024.1"
+    },
+    { "day": "09 a 11", "description": "Semana da Hispanidade - Centro de Humanidades" },
+    { "day": "09 a 14", "description": "Semana da Infância - MAUC" },
+    { "day": "11", "description": "Dia Nacional da Pessoa com Deficiência Física" },
+    { "day": "12", "description": "Feriado Nacional – Dia de Nossa Senhora Aparecida" },
+    { "day": "12", "description": "Dia do Engenheiro Agrônomo - Centro de Ciências Agrárias" },
+    { "day": "15", "description": "Criação da Comissão de Ética da UFC" },
+    { "day": "15", "description": "Dia do Professor" },
+    {
+      "day": "16 a 20",
+      "description": "Semana da Engenharia de Alimentos - Centro de Ciências Agrárias"
+    },
+    { "day": "16 a 20", "description": "XVII Semana do Direito - Faculdade de Direito" },
+    {
+      "day": "16",
+      "description": "Dia Nacional do Engenheiro de Alimentos - Centro de Ciências Agrárias"
+    },
+    { "day": "18 a 31", "description": "Exposição \"Ler é preciso\" - Biblioteca Universitária" },
+    { "day": "18", "description": "Dia do Médico" },
+    { "day": "20", "description": "Dia do Arquivista" },
+    {
+      "day": "20 a 30",
+      "description": "Período de demanda de turmas regulares semestrais e anuais para Matrícula 2024.1 pelas coordenações de cursos de graduação"
+    },
+    { "day": "21", "description": "Brincar para Crescer - FACED" },
+    { "day": "22 a 29", "description": "3° Edição da Semana Nacional do Livro e da Biblioteca" },
+    {
+      "day": "23 a 25",
+      "description": "Semana de Normalização do Sistema de Bibliotecas - Biblioteca Universitária"
+    },
+    { "day": "23 a 26", "description": "XII Semana de Biotecnologia - Centro de Ciências" },
+    { "day": "23 a 27", "description": "IV Semana Nacional do Livro e da Biblioteca da BCCP" },
+    {
+      "day": "24 a 27",
+      "description": "VIII Acessibilidade em Ação - UFC INCLUI - Acessibilidade"
+    },
+    { "day": "24 a 29", "description": "Semana do Dentista - FFOE" },
+    {
+      "day": "26 e 27",
+      "description": "Semana do Livro e da Biblioteca (BCCR) - Campus da UFC em Crateús"
+    },
+    { "day": "27", "description": "Feriado Municipal em QUIXADÁ – Dia do Município" },
+    { "day": "27", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    {
+      "day": "28",
+      "description": "Ponto facultativo – Dia do Servidor Público (art. 236 da Lei nº 8.112, de 11 de dezembro de 1990)"
+    },
+    {
+      "day": "29",
+      "description": "30º aniversário de criação da Coordenadoria das Casas de Cultura Estrangeira - Centro de Humanidades"
+    }
+  ],
+  "Novembro de 2023": [
+    { "day": "02", "description": "Feriado Nacional – Dia de Finados" },
+    {
+      "day": "03 a 14",
+      "description": "Período de resposta por parte das Chefias de Departamento e Diretorias de Unidades Acadêmicas às demandas de turma para matrícula 2024.1 feitas pelas Coordenações dos Cursos de graduação"
+    },
+    { "day": "05", "description": "Dia da cultura - MAUC" },
+    { "day": "05", "description": "Dia Nacional do Design" },
+    { "day": "05", "description": "Avaliação institucional 2023 - Início" },
+    { "day": "06 a 10", "description": "XVIII Semana de Tecnologia – Centro de Tecnologia" },
+    {
+      "day": "06 a 11",
+      "description": "IX Simpósio do Programa de Pós-graduação em Geologia – Centro de Ciências"
+    },
+    {
+      "day": "08 a 09",
+      "description": "Primeiro Congresso Internacional das Casas de Cultura Estrangeira - Entre Culturas - Centro de Humanidades"
+    },
+    { "day": "08 a 10", "description": "IX Mostra ICA - Instituto de Cultura e Arte" },
+    {
+      "day": "08 a 10",
+      "description": "Encontros Universitários – Campus da UFC em Crateús, Fortaleza, Itapajé, Quixadá, Russas e Sobral"
+    },
+    { "day": "13 a 17", "description": "Austral Spring School - LABOMAR" },
+    { "day": "15", "description": "Feriado Nacional - Proclamação da República" },
+    { "day": "19", "description": "Avaliação institucional 2023 - Término" },
+    { "day": "20", "description": "Dia da Consciência Negra" },
+    {
+      "day": "20",
+      "description": "Período de ajuste de demanda e oferta de turmas para matrícula 2024.1 para Coordenações de Curso, Chefias de Departamento e Diretorias de Unidades Acadêmicas - Início"
+    },
+    { "day": "24", "description": "Karaokê no Bosque - Centro de Humanidades" },
+    {
+      "day": "24",
+      "description": "3º aniversário do Grupo GeoGebra da UFC - Grupo de Estudos Tecendo Redes Cognitivas de Aprendizagem (GTERCOA/CNPq) - FACED"
+    },
+    { "day": "27 a 29", "description": "XVI Semana de Humanidades - Centro de Humanidades" }
+  ],
+  "Dezembro de 2023": [
+    { "day": "02", "description": "63º aniversário de criação do Labomar" },
+    { "day": "03", "description": "Dia Internacional da Pessoa com Deficiência" },
+    {
+      "day": "04",
+      "description": "Federalização da Faculdade de Farmácia e Odontologia do Ceará - FFOE e Faculdade de Direito do Ceará"
+    },
+    {
+      "day": "04",
+      "description": "Data de fechamento para o cálculo do IRA-Geral relativo a 2023.2 em todos os cursos de graduação"
+    },
+    {
+      "day": "04 a 06",
+      "description": "Confirmação de Matrícula no SIGAA para ingressantes da Seleção de Transferência de Outras Instituições de Ensino Superior e Admissão de graduados para ingresso em 2024.1"
+    },
+    { "day": "04 a 08", "description": "Jornada de Práticas Educativas e Científicas do Mauc" },
+    { "day": "05", "description": "Dia Nacional da Acessibilidade" },
+    {
+      "day": "05 e 06",
+      "description": "Trancamento parcial de matrícula 2023.2 em disciplinas anuais"
+    },
+    {
+      "day": "06 a 08",
+      "description": "XI Seminário de Cultura de Paz, Educação e Espiritualidade - Grupo de Pesquisa Cultura de Paz, Juventude e Docentes - FACED"
+    },
+    {
+      "day": "07",
+      "description": "Período de ajuste de demanda e oferta de turmas para matrícula 2024.1 para Coordenações de Curso, Chefias de Departamento e Diretorias de Unidades Acadêmicas - Término"
+    },
+    {
+      "day": "08",
+      "description": "Término do segundo semestre letivo na UUNDC - Centro de Ciências Agrárias"
+    },
+    {
+      "day": "08",
+      "description": "Feriado Municipal em SOBRAL – Nossa Senhora da Imaculada Conceição"
+    },
+    {
+      "day": "08 (PG)",
+      "description": "Pós-graduação lato sensu: período de matrícula 2023.2 de alunos novos/veteranos (via internet na coordenação de curso) - Término"
+    },
+    {
+      "day": "09",
+      "description": "Término do Semestre Letivo 2023.2 – 100 dias letivos (Cursos de graduação presenciais)\n\tÚltimo dia para pedidos de Trancamento Total, referente ao semestre 2023.2"
+    },
+    {
+      "day": "09  (EaD)",
+      "description": "Graduação a distância: Término do Semestre Letivo 2023.2 – 100 dias letivosÚltimo dia para pedidos de Trancamento Total, referente ao semestre 2023.2"
+    },
+    {
+      "day": "09 (PG)",
+      "description": "Pós-graduação stricto e lato sensu: término do período Letivo 2023.2"
+    },
+    {
+      "day": "11",
+      "description": "Solenidade em comemoração ao dia do Engenheiro e do ex-aluno do Centro de Tecnologia e da Escola de Engenharia - Centro de Tecnologia"
+    },
+    {
+      "day": "11 a 15 (PG)",
+      "description": "Pós-graduação stricto sensu: oferta de disciplinas para o semestre 2024.1"
+    },
+    {
+      "day": "11 a 18",
+      "description": "Período de Avaliações Finais do Semestre 2023.2 – todos os campi (Graduação Presencial)"
+    },
+    {
+      "day": "12",
+      "description": "Casas de Cultura Estrangeira: Término do semestre letivo 2023.2"
+    },
+    {
+      "day": "12",
+      "description": "Projeto Nova Língua - PROLÍNGUA - Centro de Humanidades - Término"
+    },
+    { "day": "13", "description": "Dia Nacional da Pessoa Cega" },
+    {
+      "day": "14",
+      "description": "Dia Nacional do Engenheiro de Pesca - Centro de Ciências Agrárias"
+    },
+    {
+      "day": "15",
+      "description": "Solenidade em comemoração ao dia do Arquiteto e Urbanista e em alusão ao dia do Designer - Centro de Tecnologia"
+    },
+    {
+      "day": "15",
+      "description": "Dia Nacional da Economia Solidária - Centro de Ciências Agrárias"
+    },
+    { "day": "16", "description": "69º aniversário de Criação da UFC" },
+    { "day": "18", "description": "Dia do Museólogo - MAUC" },
+    {
+      "day": "18",
+      "description": "Consolidação das sínteses de notas e frequências 2023.2 das disciplinas semestrais pelos professores - Prazo Final"
+    },
+    {
+      "day": "18  (EaD)",
+      "description": "Graduação a distância: Consolidação das sínteses de notas e frequências 2023.2 das disciplinas semestrais pelos professores - Prazo Final"
+    },
+    { "day": "25", "description": "Feriado Nacional - Natal" },
+    {
+      "day": "27",
+      "description": "60 anos de fundação da Casa de Cultura Italiana - Centro de Humanidades"
+    }
+  ],
+  "Janeiro de 2024": [
+    {
+      "day": "09",
+      "description": "Último dia para requerimento de Distinção Acadêmica (Cum Laude, Magna Cum Laude e Summa Cum Laude) nas Coordenações de Curso de Graduação pelos alunos concludentes do semestre 2023.2"
+    }
+  ],
+  "Fevereiro de 2024": [
+    {
+      "day": "09",
+      "description": "Último dia para remessa à PROGRAD do processo eletrônico contendo relação dos alunos concludentes, dos semestres 2023.1 e 2023.2 indicados pelas Coordenações de Curso de Graduação para concessão de distinção acadêmica (Cum Laude, Magna Cum Laude e Summa Cum Laude)"
+    }
+  ],
+  "Março de 2024": [
+    {
+      "day": "11",
+      "description": "Divulgação da lista dos agraciados com as Distinções Acadêmicas dos semestres 2023.1 e 2023.2 (Cum Laude, Magna Cum Laude e Summa Cum Laude) no site da Prograd"
+    }
+  ]
+}
